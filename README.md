@@ -7,7 +7,7 @@ The Griffin building has 10 employees of which six use Desktop PCs(connected to 
 
 The Chase building has a wireless network and a wired network. The wireless network connects   five employees (employees connected to the wireless network use Laptops or tablets). The wired network (Chase building) has an application server that runs the Human Resources, Finance and Inventory software for the company. The CEO, HRM and Finance Director   have their computers connected to the wired network. The Chase office has one printer that is shared by all employees in the Chase building.
 
-  Points to note:
+## Points to note:
   
 With the exception of shared resources and router interfaces, all devices must be assigned IP addresses using DHCP. Ensure that there are no IP address overlaps for the subnets you create.
 
