@@ -18,15 +18,25 @@ Configure the network such that devices on different networks are able to commun
 For each project group, the network address IP for NKU IT LLC is as shown in the table below
 
 GROUP #	NETWOK ID	GROUP #	NETWOK ID
+
 1	172.16.4.0/22	11	172.16.44.0/22
+
 2	172.16.8.0/22	12	172.16.48.0/22
+
 3	172.16.12.0/22	13	172.16.52.0/22
+
 4	172.16.16.0/22	14	172.16.56.0/22
+
 5	172.16.20.0/22	15	172.16.60.0/22
+
 6	172.16.24.0/22	16	172.16.64.0/22
+
 7	172.16.28.0/22	17	172.16.68.0/22
+
 8	172.16.32.0/22	18	172.16.72.0/22
+
 9	172.16.36.0/22	19	172.16.76.0/22
+
 10	172.16.40.0/22	20	172.16.80.0/22
 
 Based on the table above, group 1 would use the network address 172.16.4.0/22for NKU IT LLC.
